@@ -16,7 +16,7 @@
 Summary:	The Corosync Cluster Engine and Application Programming Interfaces
 Name:		corosync
 Version:	1.2.8
-Release:	12
+Release:	13
 License:	BSD
 Group:		System/Base
 Url:		http://www.corosync.org
