@@ -19,7 +19,7 @@ Version:	1.2.8
 Release:	14
 License:	BSD
 Group:		System/Base
-Url:		http://www.corosync.org
+Url:		https://www.corosync.org
 Source0:	ftp://ftp:downloads@ftp.corosync.org/downloads/corosync-%{version}/corosync-%{version}.tar.gz
 
 BuildRequires:	pkgconfig(nss)
