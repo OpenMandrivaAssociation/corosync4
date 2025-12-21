@@ -22,6 +22,11 @@ Group:		System/Base
 Url:		https://www.corosync.org
 Source0:	ftp://ftp:downloads@ftp.corosync.org/downloads/corosync-%{version}/corosync-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(nss)
 BuildRequires:	pkgconfig(libqb)
 Requires(post,preun):	rpm-helper
